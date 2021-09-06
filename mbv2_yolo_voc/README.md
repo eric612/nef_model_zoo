@@ -1,3 +1,3 @@
 ## Simulator result
 
-![alt tag](onnx_result.jpg)
+![alt tag](nef_result.jpg)
