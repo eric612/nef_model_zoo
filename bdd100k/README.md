@@ -25,5 +25,4 @@ output_total_weight_size = 10350.5 KB
 output_avg_weight_bw = 1.74162 GB/s
 output_avg_dram_bw = 3.13457 GB/s
 ```
-
-![https://youtu.be/ZUCCMtipDn0](nef_result.jpg)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZUCCMtipDn0/0.jpg)](https://youtu.be/ZUCCMtipDn0)
