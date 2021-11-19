@@ -24,4 +24,4 @@ output_total_weight_size = 10497.4 KB
 output_avg_weight_bw = 1.18349 GB/s
 output_avg_dram_bw = 2.89957 GB/s
 ```
-![result](/nef_result.jpg)
+![result](nef_result.jpg)
